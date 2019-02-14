@@ -34,5 +34,5 @@ Then run:
 $ php artisan admin:import config
 ```
 
-Open `http://your-host/admin/config`
+Open `http://your-host/admin/config2222`
 
